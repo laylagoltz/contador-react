@@ -16,6 +16,7 @@ export default function App() {
     function diminuir() {
      setNumero(numero - 1)
     }
+     
   
 
   return(
